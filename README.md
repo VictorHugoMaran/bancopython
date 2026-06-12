@@ -63,18 +63,12 @@ Este projeto simula as operações essenciais de um banco real via terminal. Foi
 
 ### Pré-requisitos
 
-- Python **3.10 ou superior** (necessário para o `match/case`)
+- Python **3.10 ou superior**
 
 ### Passo a passo
 
 ```bash
-# 1. Clone o repositório
-git clone https://github.com/seu-usuario/banco-python.git
-
-# 2. Entre na pasta do projeto
-cd banco-python
-
-# 3. Execute o sistema
+# Baixe os arquivos e execute
 python banco.py
 ```
 
