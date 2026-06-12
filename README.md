@@ -300,8 +300,8 @@ Os testes cobrem:
 
 ---
 
-## 👨‍💻 Autor
+## ⚠️ Aviso
 
-Feito como projeto de portfólio para demonstração de habilidades em Python e POO.
-
-Sinta-se à vontade para abrir issues ou pull requests com sugestões! 🙂
+Este projeto foi gerado com auxílio de IA como exercício de aprendizado.
+O código serve como referência de boas práticas, mas não representa
+minha produção autoral em Python.
