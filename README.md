@@ -223,10 +223,10 @@ ErroConta
 
 ```
 banco-python/
-├── banco.py      # sistema completo (1.064 linhas)
-├── testes.py     # suite de testes automatizados (41 testes)
-├── .gitignore
-└── README.md
+├── .gitignore     
+├── README.md     
+├── banco.py    # sistema completo (1.064 linhas)
+└── teste.py    # suite de testes automatizados (41 testes)
 ```
 
 ---
