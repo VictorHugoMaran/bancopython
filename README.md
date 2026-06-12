@@ -222,7 +222,7 @@ ErroConta
 ## 📁 Estrutura do projeto
 
 ```
-banco-python/
+bancopython/
 ├── .gitignore     
 ├── README.md     
 ├── banco.py    # sistema completo (1.064 linhas)
